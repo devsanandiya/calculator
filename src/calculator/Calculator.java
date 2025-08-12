@@ -79,6 +79,7 @@ System.out.println("enter your first number  : ");
         	System.out.println("enter valid choice");
         
      } 
+         sc.close();
  
    }     
  }
