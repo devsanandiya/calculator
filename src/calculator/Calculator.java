@@ -32,7 +32,7 @@ public class Calculator {
          }
     
          
-System.out.println("enter your first number  : "); 
+         System.out.println("enter your first number  : "); 
          
          n1=sc.nextInt();
          
